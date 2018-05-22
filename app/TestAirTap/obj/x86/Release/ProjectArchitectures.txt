@@ -1,0 +1,2 @@
+C:\Users\otkyu\Documents\Unity 2017.2.1f1 (64-bit)\TestAirTap\app\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\otkyu\Documents\Unity 2017.2.1f1 (64-bit)\TestAirTap\app\TestAirTap\TestAirTap.csproj;x86
