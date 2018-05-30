@@ -2,7 +2,7 @@
     <PropertyGroup>
         <UnityWSASolutionName>TestAirTap</UnityWSASolutionName>
         <UnityWSASolutionDir>C:\Users\otkyu\Documents\Unity 2017.2.1f1 (64-bit)\TestAirTap\app\</UnityWSASolutionDir>
-        <UnityProjectDir>C:\Users\otkyu\Documents\Unity 2017.2.1f1 (64-bit)\TestAirTap\</UnityProjectDir>
+        <UnityProjectDir>C:\Users\otkyu\Documents\Unity\unityChan\</UnityProjectDir>
         <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
         <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
     </PropertyGroup>

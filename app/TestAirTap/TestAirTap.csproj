@@ -348,7 +348,7 @@
 
   <ItemGroup>
     <ProjectReference Include="C:\Users\otkyu\Documents\Unity 2017.2.1f1 (64-bit)\TestAirTap\app\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{2f5160b5-769f-4b40-b0d3-538fa88f302d}</Project>
+      <Project>{5ed38e1d-2be2-4527-b6d6-7b488cee0ed9}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>
